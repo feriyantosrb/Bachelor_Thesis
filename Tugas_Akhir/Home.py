@@ -11,7 +11,7 @@ st.write("# Optimasi CCS/CCUS HUB di Indonesia : Case Studi South Sumatra Area ð
 st.sidebar.header("")
 #st.sidebar.header(':blue[Pages]')
     
-st.image(r"Tugas_Akhir/network.jpg", width=800)
+st.image(r"Tugas_Akhir/network.png", width=800)
 
 st.write('#')
 st.write("Feriyanto - Teknik Perminyakan ITB 2020")
